@@ -1,0 +1,9 @@
+https://de.wikipedia.org/wiki/Hilfe:TeX - Formelzeichen
+https://praxistipps.chip.de/latex-zahlen-hochstellen-und-tiefstellen-so-gehts_92196 - Zahlen in LaTeX hoch- oder tiefstellen
+https://de.wikipedia.org/wiki/Boolesche_Algebra - Und/Oder
+https://en.wikibooks.org/wiki/LaTeX/Mathematics - Mehr Mathezeichen
+https://tex.stackexchange.com/questions/131841/environment-align-undefined-line-11-all-i-can-see-to-do-is-to-retype-the-line-a - align block
+https://www.namsu.de/latex/kapitel7.html - Mathmode in latex
+https://www.namsu.de/Extra/strukturen/Sonderzeichen.html - exponenten
+https://de.wikibooks.org/wiki/LaTeX-Kompendium:_Schnellkurs:_Erste_Schritte - scrartcl basics 1
+http://www.matheboard.de/archive/518648/thread.html - scrartcl basics 2
