@@ -7,3 +7,4 @@ https://www.namsu.de/latex/kapitel7.html - Mathmode in latex
 https://www.namsu.de/Extra/strukturen/Sonderzeichen.html - exponenten
 https://de.wikibooks.org/wiki/LaTeX-Kompendium:_Schnellkurs:_Erste_Schritte - scrartcl basics 1
 http://www.matheboard.de/archive/518648/thread.html - scrartcl basics 2
+https://www.namsu.de/Extra/befehle/Bruch.pdf - Klammer um Bruchstrich
