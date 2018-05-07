@@ -82,7 +82,53 @@ Intervall erreicht und wie gro{\ss} sind diese?}
 \subsection{Die maximale Beschleunigung beträgt $20cm / minute^2$. Wird dieser
 Wert im Intervall [1;2] min überschritten?}
 
+\begin{outline}
+  \1 $V^\prime(t) = 30t^2 - 100t + 60$ ausrechnen bei $x_1 = 1$ und $x_2 = 2$
+  \1 Nullstellen von $V^{\prime\prime}(t) = 60t - 100$ ausrechnen
+  \1 Die errechneten Nullstellen als $t$ in $V^\prime(t) = 30t^2 - 100t + 60$ einsetzen
+\end{outline}
+
+\begin{align*}
+  x_1 &= 1                                  \\
+  x_2 &= 2                                  \\
+  V^\prime(t) &= 30t^2 - 100t + 60          \\
+  V^\prime(x_1) &= 30 * 1^2 - 100 * 1 + 60  \\
+  V^\prime(x_1) &= -10                      \\
+  V^\prime(x_2) &= 30 * 2^2 - 100 * 2 + 60  \\
+  V^\prime(x_2) &= -20                      \\
+\end{align*}
+
+An den Intervallgrenzen $x_1 = 1$ und $x_2 = 2$ beträgt die Beschleunigung $-10$ beziehungsweise $-20$.
+
+Bestimmung der Nullstelle:
+
+\begin{align*}
+  V^{\prime\prime}(t) &= 60t - 100  \\
+  0 &= 60t - 100                    \\
+  100 &= 60t                        \\
+  \frac{5}{3} &= t                  \\
+\end{align*}
+
+Ermitteln das lokalen Extremwerts:
+\begin{align*}
+  t &= \frac{5}{3}                                            \\
+  V^\prime(t) &= 30t^2 - 100t + 60                            \\
+  V^\prime(t) &= 30 * \frac{5}{3}^2 - 100 * \frac{5}{3} + 60  \\
+  V^\prime(t) &= -56\frac{2}{3}                               \\
+\end{align*}
+
+Der lokale Extremwert liegt bei $-56\frac{2}{3}$. Die maximale Beschleunigung
+wird im Intervall [1;2] min nicht überschritten.
+
 \subsection{Welcher Weg wird im Intervall [0;3,4] zurückgelegt?}
 
+\begin{outline}
+  \1 Integrieren von $V(t) = 10t^3 - 50t^2 - 60t$
+  \1 Fläche des Integrals von [1;2] errechnen
+\end{outline}
+
+\begin{align*}
+  V(t) &= 10t^3 - 50t^2 - 60t
+\end{align*}
 
 \end{document}
